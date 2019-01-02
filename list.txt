@@ -1,8 +1,8 @@
 # DNS over HTTPS (DoH) server list 
 # Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
-# Some would call this a whack-a-mole approach. I call it a marginal improvement. ;-)
 # You *must* re-direct all standard DNS outbound (UDP 53) to an internal server. This ensures the bootstrap address is your DNS server.
 # While you're at it, block all DNS over TLS outbound (TCP 853).
+# Some would call this a whack-a-mole approach. I call it a marginal improvement. ;-)
 # Twitter: @oneoffdallas
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
