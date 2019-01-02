@@ -1,0 +1,27 @@
+# DNS over HTTPS (DoH) server list 
+# Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
+# 
+# Last modified: 2 Jan 2019
+
+0.0.0.0 doh.blahdns.com
+0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 cloudflare-dns.com
+0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 dns.cmrg.net
+0.0.0.0 commons.host
+0.0.0.0 doh.crypto.sx
+0.0.0.0 dns.dns-over-https.com
+0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 doh1.dnswarden.com
+0.0.0.0 doh2.dnswarden.com
+0.0.0.0 dns.google.com
+0.0.0.0 dns.neutopia.org
+0.0.0.0 doh.powerdns.org
+0.0.0.0 dns.quad9.net
+0.0.0.0 dns9.quad9.net
+0.0.0.0 dns10.quad9.net
+0.0.0.0 dns.rubyfish.cn
+0.0.0.0 doh.securedns.eu
+0.0.0.0 dnsovertls.sinodun.com
+0.0.0.0 dnsovertls1.sinodun.com
