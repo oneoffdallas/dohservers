@@ -7,9 +7,13 @@
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
-# Last modified: 2 Jan 2019
+# Last modified: 18 Feb 2019
 
+0.0.0.0 dns-gcp.aaflalo.me
+0.0.0.0 dns.aaflalo.me
+#
 0.0.0.0 doh.blahdns.com
+0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 #
 0.0.0.0 doh.cleanbrowsing.org
