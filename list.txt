@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 24 Sept 2019
+# Last modified: 11 Oct 2019
 
 0.0.0.0 dns-gcp.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
@@ -57,6 +57,7 @@
 0.0.0.0 dns.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dns10.quad9.net
+0.0.0.0 dns11.quad9.net
 #
 0.0.0.0 dns.rubyfish.cn
 #
@@ -67,4 +68,17 @@
 0.0.0.0 dnsovertls1.sinodun.com
 #
 0.0.0.0 doh.tiar.app
+0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiar.app
+#
+0.0.0.0 dns.containerpi.com
+#
+0.0.0.0 doh.42l.fr
+#
+0.0.0.0 dns.aa.net.uk
+#
+0.0.0.0 adblock.mydns.network
+#
+0.0.0.0 ibksturm.synology.me
+#
+0.0.0.0 ibuki.cgnat.net
