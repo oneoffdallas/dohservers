@@ -10,6 +10,8 @@
 # Added: 18 Feb 2019
 # Last modified: 11 Oct 2019
 
+0.0.0.0 doh.42l.fr
+#
 0.0.0.0 dns-gcp.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
 0.0.0.0 dns.aaflalo.me
@@ -25,11 +27,13 @@
 0.0.0.0 doh-jp.blahdns.com
 #
 0.0.0.0 doh.captnemo.in
+0.0.0.0 ibuki.cgnat.net
 0.0.0.0 doh.cleanbrowsing.org
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 dns.cmrg.net
 0.0.0.0 commons.host
+0.0.0.0 dns.containerpi.com
 0.0.0.0 doh.crypto.sx
 #
 0.0.0.0 dns.google
@@ -46,7 +50,10 @@
 #
 0.0.0.0 dns.google.com
 #
+0.0.0.0 adblock.mydns.network
+#
 0.0.0.0 dns.neutopia.org
+0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.netweaver.uk
 0.0.0.0 dns.nextdns.io
 #
@@ -66,6 +73,7 @@
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
+0.0.0.0 ibksturm.synology.me
 #
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.tiarap.org
