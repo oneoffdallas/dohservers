@@ -38,6 +38,9 @@
 #
 0.0.0.0 dns.google
 0.0.0.0 doh.li
+0.0.0.0 dns.digitale-gesellschaft.ch
+0.0.0.0 dns1.digitale-gesellschaft.ch
+0.0.0.0 dns2.digitale-gesellschaft.ch
 0.0.0.0 doh.dns.sb
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
@@ -56,6 +59,7 @@
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.netweaver.uk
 0.0.0.0 dns.nextdns.io
+0.0.0.0 odvr.nic.cz
 #
 0.0.0.0 doh.opendns.com
 #
