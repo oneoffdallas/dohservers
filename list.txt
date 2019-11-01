@@ -8,9 +8,13 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 11 Oct 2019
+# Last modified: 31 Oct 2019
 
 0.0.0.0 doh.42l.fr
+0.0.0.0 edns.233py.com
+0.0.0.0 ndns.233py.com
+0.0.0.0 sdns.233py.com
+0.0.0.0 wdns.233py.com
 #
 0.0.0.0 dns-gcp.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
@@ -25,6 +29,7 @@
 0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 dns.brahma.world
 #
 0.0.0.0 doh.captnemo.in
 0.0.0.0 ibuki.cgnat.net
@@ -38,6 +43,8 @@
 #
 0.0.0.0 dns.google
 0.0.0.0 doh.li
+0.0.0.0 dns.developer.li
+0.0.0.0 dns2.developer.li
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
@@ -49,9 +56,16 @@
 0.0.0.0 doh2.dnswarden.com
 0.0.0.0 uncensored-dot.dnswarden.com
 #
+0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
 #
 0.0.0.0 dns.google.com
+0.0.0.0 jp.gridns.xyz
+0.0.0.0 sg.gridns.xyz
+#
+0.0.0.0 public.dns.iij.jp
+#
+0.0.0.0 doh.libredns.org
 #
 0.0.0.0 adblock.mydns.network
 #
@@ -59,10 +73,14 @@
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.netweaver.uk
 0.0.0.0 dns.nextdns.io
+0.0.0.0 dns1.nextdns.io
+0.0.0.0 dns2.nextdns.io
 0.0.0.0 odvr.nic.cz
 #
 0.0.0.0 doh.opendns.com
+0.0.0.0 dns.oszx.co
 #
+0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
 0.0.0.0 dns.quad9.net
@@ -71,8 +89,11 @@
 0.0.0.0 dns11.quad9.net
 #
 0.0.0.0 dns.rubyfish.cn
+0.0.0.0 ea-dns.rubyfish.cn
+0.0.0.0 uw-dns.rubyfish.cn
 #
 0.0.0.0 doh.securedns.eu
+0.0.0.0 ads-doh.securedns.eu
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dnsovertls.sinodun.com
@@ -82,4 +103,8 @@
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiar.app
+0.0.0.0 jp.tiarap.org
+0.0.0.0 dns.twnic.tw
 #
+0.0.0.0 doh.xfinity.com
+0.0.0.0 doh.gslb2.xfinity.com
