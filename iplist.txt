@@ -67,6 +67,7 @@
 149.112.112.10
 9.9.9.11
 149.112.112.11
+118.126.68.223
 118.89.110.78
 47.96.179.163
 146.185.167.43
@@ -84,6 +85,66 @@
 217.169.20.22
 172.65.3.223
 188.60.252.16
+
+# dns.oszx.co
+51.38.83.141
+
+# dns.pumplex.com
+51.38.82.198
+
+# arvind.io
+206.189.142.179
+
+# dns.brahma.world
+134.209.146.16
+
+# commons.host
+139.162.131.245
+
+# dns2.developer.li
+51.89.22.36
+
+# dns.developer.li
+164.132.45.112
+
+# doh.dns.sb
+172.64.105.36
+172.64.104.36
+
+# doh.ffmuc.net
+195.30.94.28
+
+# geekdns / 233py.com
+47.101.136.37
+114.115.240.175
+119.29.107.85
+118.24.208.197
+
+# gridns.xyz
+172.105.241.93
+139.162.3.123
+
+# public.dns.iij.jp
+103.2.57.5
+103.2.57.6
+
+# jp.tiarap.org
+104.28.28.34
+104.28.29.34
+
+# doh.libredns.org
+146.148.56.78
+
+# doh.netweaver.uk
+185.157.233.92
+
+# dns.twnic.tw
+210.17.9.228
+
+# doh.xfinity.com / doh.gslb2.xfinity.com (Comcast)
+96.113.151.141
+96.113.151.142
+96.113.151.143
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 appear above)
 # 1.1.1.1
