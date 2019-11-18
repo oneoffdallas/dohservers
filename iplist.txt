@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 31 Oct 2019
+# Last modified: 18 Nov 2019
 
 168.235.81.167
 176.56.236.175
@@ -149,6 +149,10 @@
 96.113.151.148
 96.113.151.149
 96.113.151.150
+
+# dnscrypt.ca (Port 453!)
+192.99.183.132
+149.56.228.45
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 appear above)
 # 1.1.1.1
