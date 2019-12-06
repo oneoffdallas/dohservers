@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 31 Oct 2019
+# Last modified: 05 Dec 2019
 
 0.0.0.0 doh.42l.fr
 0.0.0.0 edns.233py.com
@@ -48,6 +48,8 @@
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
+0.0.0.0 dns1.dnscrypt.ca
+0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dns.sb
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
@@ -80,6 +82,10 @@
 0.0.0.0 doh.opendns.com
 0.0.0.0 dns.oszx.co
 #
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 doh.westeu.pi-dns.com
+0.0.0.0 doh.westus.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
 0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
