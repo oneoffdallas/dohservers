@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 05 Dec 2019
+# Last modified: 20 Dec 2019
 
 0.0.0.0 doh.42l.fr
 0.0.0.0 edns.233py.com
@@ -21,6 +21,7 @@
 0.0.0.0 dns.aaflalo.me
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
+0.0.0.0 dns.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.armadillodns.net
 #
@@ -104,8 +105,10 @@
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
+0.0.0.0 fi.doh.dns.snopyta.org
 0.0.0.0 ibksturm.synology.me
 #
+0.0.0.0 dns.t53.de
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiar.app
