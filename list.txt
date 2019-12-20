@@ -52,6 +52,11 @@
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dns.sb
+0.0.0.0 public-dns-a.dns.sb
+0.0.0.0 public-dns-b.dns.sb
+0.0.0.0 doh.dnslify.com
+0.0.0.0 a.ns.dnslify.com
+0.0.0.0 b.ns.dnslify.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 dnswarden.com
@@ -63,6 +68,8 @@
 0.0.0.0 rdns.faelix.net
 #
 0.0.0.0 dns.google.com
+0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 #
@@ -81,8 +88,13 @@
 0.0.0.0 odvr.nic.cz
 #
 0.0.0.0 doh.opendns.com
+0.0.0.0 resolver1.opendns.com
+0.0.0.0 resolver2.opendns.com
+0.0.0.0 resolver1-fs.opendns.com
+0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 dns.oszx.co
 #
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.northeu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
