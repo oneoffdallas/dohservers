@@ -63,6 +63,7 @@
 0.0.0.0 dns.dnsoverhttps.net
 0.0.0.0 doh.dnswarden.com
 0.0.0.0 ecs-doh.dnswarden.com
+0.0.0.0 uncensored-dot.dnswarden.com
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
