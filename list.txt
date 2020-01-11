@@ -22,6 +22,7 @@
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.armadillodns.net
 #
@@ -35,6 +36,7 @@
 0.0.0.0 doh.captnemo.in
 0.0.0.0 ibuki.cgnat.net
 0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 dns.cmrg.net
@@ -59,10 +61,8 @@
 0.0.0.0 b.ns.dnslify.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
-0.0.0.0 dnswarden.com
-0.0.0.0 doh1.dnswarden.com
-0.0.0.0 doh2.dnswarden.com
-0.0.0.0 uncensored-dot.dnswarden.com
+0.0.0.0 doh.dnswarden.com
+0.0.0.0 ecs-doh.dnswarden.com
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
@@ -102,10 +102,14 @@
 0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
+# alias for dns.quad9.net
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+#
 0.0.0.0 dns.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dns10.quad9.net
 0.0.0.0 dns11.quad9.net
+0.0.0.0 dns-nosec.quad9.net
 #
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
