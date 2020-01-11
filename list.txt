@@ -24,6 +24,7 @@
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
+0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
 #
 0.0.0.0 blahdns.com
@@ -31,6 +32,7 @@
 0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh.blockerdns.com
 0.0.0.0 dns.brahma.world
 #
 0.0.0.0 doh.captnemo.in
@@ -42,6 +44,7 @@
 0.0.0.0 dns.cmrg.net
 0.0.0.0 commons.host
 0.0.0.0 dns.containerpi.com
+0.0.0.0 dohdot.coxlab.net
 0.0.0.0 doh.crypto.sx
 #
 0.0.0.0 dns.google
@@ -74,9 +77,14 @@
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 #
+0.0.0.0 dns.hostux.net
+#
 0.0.0.0 public.dns.iij.jp
 #
+0.0.0.0 jcdns.fun
+#
 0.0.0.0 doh.libredns.org
+0.0.0.0 doh.libredns.gr
 #
 0.0.0.0 adblock.mydns.network
 #
