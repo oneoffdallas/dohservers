@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 20 Dec 2019
+# Last modified: 11 Jan 2020
 
 0.0.0.0 doh.42l.fr
 0.0.0.0 edns.233py.com
