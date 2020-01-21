@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 05 Dec 2019
+# Last modified: 11 Jan 2020
 
 0.0.0.0 doh.42l.fr
 0.0.0.0 edns.233py.com
@@ -21,7 +21,10 @@
 0.0.0.0 dns.aaflalo.me
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
+0.0.0.0 dns.alekberg.net
+0.0.0.0 dns2.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
+0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
 #
 0.0.0.0 blahdns.com
@@ -29,16 +32,19 @@
 0.0.0.0 doh-ch.blahdns.com
 0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh.blockerdns.com
 0.0.0.0 dns.brahma.world
 #
 0.0.0.0 doh.captnemo.in
 0.0.0.0 ibuki.cgnat.net
 0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 dns.cmrg.net
 0.0.0.0 commons.host
 0.0.0.0 dns.containerpi.com
+0.0.0.0 dohdot.coxlab.net
 0.0.0.0 doh.crypto.sx
 #
 0.0.0.0 dns.google
@@ -51,23 +57,34 @@
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dns.sb
+0.0.0.0 public-dns-a.dns.sb
+0.0.0.0 public-dns-b.dns.sb
+0.0.0.0 doh.dnslify.com
+0.0.0.0 a.ns.dnslify.com
+0.0.0.0 b.ns.dnslify.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
-0.0.0.0 dnswarden.com
-0.0.0.0 doh1.dnswarden.com
-0.0.0.0 doh2.dnswarden.com
+0.0.0.0 doh.dnswarden.com
+0.0.0.0 ecs-doh.dnswarden.com
 0.0.0.0 uncensored-dot.dnswarden.com
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
 #
 0.0.0.0 dns.google.com
+0.0.0.0 google-public-dns-a.google.com
+0.0.0.0 google-public-dns-b.google.com
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 #
+0.0.0.0 dns.hostux.net
+#
 0.0.0.0 public.dns.iij.jp
 #
+0.0.0.0 jcdns.fun
+#
 0.0.0.0 doh.libredns.org
+0.0.0.0 doh.libredns.gr
 #
 0.0.0.0 adblock.mydns.network
 #
@@ -80,8 +97,13 @@
 0.0.0.0 odvr.nic.cz
 #
 0.0.0.0 doh.opendns.com
+0.0.0.0 resolver1.opendns.com
+0.0.0.0 resolver2.opendns.com
+0.0.0.0 resolver1-fs.opendns.com
+0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 dns.oszx.co
 #
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.northeu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
@@ -89,10 +111,14 @@
 0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
+# alias for dns.quad9.net
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+#
 0.0.0.0 dns.quad9.net
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dns10.quad9.net
 0.0.0.0 dns11.quad9.net
+0.0.0.0 dns-nosec.quad9.net
 #
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
@@ -104,8 +130,10 @@
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
+0.0.0.0 fi.doh.dns.snopyta.org
 0.0.0.0 ibksturm.synology.me
 #
+0.0.0.0 dns.t53.de
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiar.app

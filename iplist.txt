@@ -7,11 +7,20 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 05 Dec 2019
+# Last modified: 11 Jan 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
 # 1.0.0.1
+
+# dns.cloudflare.com
+104.17.64.4
+104.17.65.4
+
+# Quad9 is also using Port 5053 for DoH: (last checked 11 Jan 2020)
+# https://www.quad9.net/doh-quad9-dns-servers/#UsingDoHwithQuad9DNSServers-AdditionalInformation
+#
+# dnscrypt.ca is using Port 453 for DoH (instead of 443)
 
 168.235.81.167
 176.56.236.175
@@ -156,7 +165,7 @@
 96.113.151.150
 
 # dnscrypt.ca (Port 453!)
-192.99.183.132
+167.114.220.125
 149.56.228.45
 
 # pi-dns.com
@@ -164,3 +173,43 @@
 31.220.42.65
 45.67.219.208
 185.213.26.187
+
+# dns.t53.de (Telekom DE DoH-Testserver)
+80.156.145.201
+
+# snopyta.org
+95.216.229.153
+
+# alekberg.net
+51.15.124.208
+104.168.247.138
+
+# dnslify.com
+185.235.81.1
+185.235.81.2
+
+# opendns.com
+208.67.222.222
+208.67.220.220
+208.67.222.123
+208.67.220.123
+
+# dnswarden.com
+88.198.161.8
+116.203.35.255
+116.203.70.156
+
+# dohdot.coxlab.net
+174.68.248.77
+
+# dns.hostux.net
+185.26.126.37
+
+#jcdns.fun
+178.62.214.105
+
+# doh.blockerdns.com
+35.231.247.227
+
+# doh.libredns.gr
+116.203.115.192
