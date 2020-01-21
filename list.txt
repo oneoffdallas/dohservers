@@ -64,6 +64,8 @@
 0.0.0.0 b.ns.dnslify.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 adblock-dot.dnswarden.com
+0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.dnswarden.com
 0.0.0.0 ecs-doh.dnswarden.com
 0.0.0.0 uncensored-dot.dnswarden.com
