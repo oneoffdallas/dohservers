@@ -1,14 +1,159 @@
-# DNS over HTTPS (DoH) server IPv6 list 
+# DNS over HTTPS (DoH) server IPv6 list
 # This is a list of IPv6 addresses which correspond to publicly available DoH providers
 # It can be used to firewall these IP addresses
 #
 # Twitter: @oneoffdallas
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/ipv6list.txt
-# 
+#
 # Added: 20 Jan 2020
 # Last modified: 20 Jan 2020
 
 # Optionally include Cloudflare's main addresses
 # 2606:4700:4700::1111
-# 2606:4700:4700::1001	
+# 2606:4700:4700::1001
+
+# *.aaflalo.me:
+2604:180:f3::42
+2a00:d880:5:bf0::7c93
+
+# dns.adguard.com:
+2a00:5a60::ad2:ff
+2a00:5a60::ad1:ff
+# dns-family.adguard.com:
+2a00:5a60::bad1:ff
+2a00:5a60::bad2:ff
+
+# doh.appliedprivacy.net:
+2a00:63c1:a:229::2
+
+# *.blahdns.com:
+2606:4700:3035::6818:788e
+2606:4700:3031::6818:798e
+2a01:4f8:1c1c:6b4b::1
+2001:19f0:7001:3259:5400:2ff:fe71:bc9
+
+# dns.brahma.world:
+2400:6180:100:d0::8d7:1
+
+# cloudflare-dns.com:
+2606:4700::6810:f9f9
+2606:4700::6810:f8f9
+
+# dns.cmrg.net:
+2001:470:1c:76d::53
+
+# dns.containerpi.com:
+2001:19f0:7001:5554:5400:2ff:fe57:3077
+
+# doh.crypto.sx:
+2606:4700:3034::681c:16a
+2606:4700:3036::681c:6a
+
+# dns.google:
+2001:4860:4860::64
+2001:4860:4860::6464
+2001:4860:4860::8844
+2001:4860:4860::8888
+
+# *.digitale-gesellschaft.ch:
+2a05:fc84::43
+2a05:fc84::42
+
+# doh.dns.sb:
+2606:4700:3035::681f:5a8a
+2606:4700:3036::681f:5b8a
+
+# dns.dns-over-https.com:
+2001:19f0:7001:27a2:45:32:253:116
+2001:470:f324::45:77:124:64
+2001:19f0:6001:146f:45:77:124:64
+2001:470:ff0a::45:32:253:116
+
+# dns.dnsoverhttps.net:
+2604:a880:1:20::51:f001
+
+# *.dnswarden.com:
+2a01:4f8:c2c:24fe::1
+2a01:4f8:c0c:62a7::1
+2a01:4f8:1c1c:5e77::1
+2a01:4f8:1c1c:75b4::1
+
+# doh.ffmuc.net:
+2001:608:a01::3
+
+# rdns.faelix.net:
+2a01:9e01::54
+2a01:9e00::55
+2a01:9e01::55
+2a01:9e00::54
+
+# *.gridns.xyz:
+2400:8902::f03c:91ff:feed:220b
+2400:8901::f03c:91ff:feed:8d47
+
+# public.dns.iij.jp:
+2001:300::6
+2001:300::5
+
+# adblock.mydns.network:
+2606:4700:60::a71e:6467:cef8:2a56
+
+# dns.neutopia.org:
+2a00:5884:8209::2
+
+# dns.aa.net.uk:
+2001:8b0::2023
+2001:8b0::2022
+
+# odvr.nic.cz:
+2001:148f:fffe::1
+
+# doh.opendns.com:
+2620:119:fc::2
+
+# dns.oszx.co:
+2001:41d0:801:2000::d64
+
+# doh.powerdns.org:
+2a01:7c8:d002:1ef:5054:ff:fe40:3703
+
+# *.quad9.net:
+2620:fe::9
+2620:fe::fe
+2620:fe::fe:10
+2620:fe::10
+2620:fe::fe:11
+2620:fe::11
+
+# *.securedns.eu:
+2a03:b0c0:0:1010::e9a:3001
+
+# dnsovertls.sinodun.com:
+2001:610:1:40ba:145:100:185:15
+2001:610:1:40ba:145:100:185:16
+
+# ibksturm.synology.me:
+2a02:1205:34d5:5070:b26e:bfff:fe1d:e19b
+
+# *.tiar.app:
+2400:6180:0:d0::5f73:4001
+2606:4700:3033::6812:2dcc
+2606:4700:3033::6812:2ccc
+2400:8902::f03c:91ff:feda:c514
+
+# dns.twnic.tw:
+2001:c50:ffff:1:101:101:101:101
+
+# doh.gslb2.xfinity.com.
+2001:558:fe21:6b:96:113:151:150
+
+# dnscrypt.ca:
+2607:5300:61:95f:7283:11d9:f86:e689
+2607:5300:120:b9b::200
+
+# pi-dns.com
+2a01:4f9:c01f:4::abcd
+2a01:6f0:ffff:49::abcd
+2a04:bdc7:100:70::abcd
+2a0d:5600:33:3::abcd
