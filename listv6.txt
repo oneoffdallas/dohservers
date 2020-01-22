@@ -1,0 +1,116 @@
+# DNS over HTTPS (DoH) server list
+# Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
+# You *must* re-direct all standard DNS outbound (UDP 53) to an internal server. This ensures the bootstrap address is your DNS server.
+# While you're at it, block all DNS over TLS outbound (TCP 853).
+# Some would call this a whack-a-mole approach. I call it a marginal improvement. ;-)
+# Twitter: @oneoffdallas
+# Homepage: https://github.com/oneoffdallas/dohservers
+# Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
+#
+# Added: 20 Jan 2020
+# Last modified: 20 Jan 2020
+
+:: doh.42l.fr
+:: edns.233py.com
+:: ndns.233py.com
+:: sdns.233py.com
+:: wdns.233py.com
+#
+:: dns-gcp.aaflalo.me
+:: dns-nyc.aaflalo.me
+:: dns.aaflalo.me
+:: dns.adguard.com
+:: dns-family.adguard.com
+:: doh.appliedprivacy.net
+:: doh.armadillodns.net
+#
+:: blahdns.com
+:: doh.blahdns.com
+:: doh-ch.blahdns.com
+:: doh-de.blahdns.com
+:: doh-jp.blahdns.com
+:: dns.brahma.world
+#
+:: doh.captnemo.in
+:: ibuki.cgnat.net
+:: doh.cleanbrowsing.org
+:: cloudflare-dns.com
+:: mozilla.cloudflare-dns.com
+:: dns.cmrg.net
+:: commons.host
+:: dns.containerpi.com
+:: doh.crypto.sx
+#
+:: dns.google
+:: doh.li
+:: dns.developer.li
+:: dns2.developer.li
+:: dns.digitale-gesellschaft.ch
+:: dns1.digitale-gesellschaft.ch
+:: dns2.digitale-gesellschaft.ch
+:: dns1.dnscrypt.ca
+:: dns2.dnscrypt.ca
+:: doh.dns.sb
+:: dns.dns-over-https.com
+:: dns.dnsoverhttps.net
+:: dnswarden.com
+:: doh1.dnswarden.com
+:: doh2.dnswarden.com
+:: uncensored-dot.dnswarden.com
+#
+:: doh.ffmuc.net
+:: rdns.faelix.net
+#
+:: dns.google.com
+:: jp.gridns.xyz
+:: sg.gridns.xyz
+#
+:: public.dns.iij.jp
+#
+:: doh.libredns.org
+#
+:: adblock.mydns.network
+#
+:: dns.neutopia.org
+:: dns.aa.net.uk
+:: doh.netweaver.uk
+:: dns.nextdns.io
+:: dns1.nextdns.io
+:: dns2.nextdns.io
+:: odvr.nic.cz
+#
+:: doh.opendns.com
+:: dns.oszx.co
+#
+:: doh.northeu.pi-dns.com
+:: doh.westeu.pi-dns.com
+:: doh.westus.pi-dns.com
+:: doh.eastus.pi-dns.com
+:: dns.pumplex.com
+:: doh.powerdns.org
+#
+:: dns.quad9.net
+:: dns9.quad9.net
+:: dns10.quad9.net
+:: dns11.quad9.net
+#
+:: dns.rubyfish.cn
+:: ea-dns.rubyfish.cn
+:: uw-dns.rubyfish.cn
+#
+:: doh.securedns.eu
+:: ads-doh.securedns.eu
+:: doh.seby.io
+:: doh-2.seby.io
+:: dnsovertls.sinodun.com
+:: dnsovertls1.sinodun.com
+:: ibksturm.synology.me
+#
+:: doh.tiar.app
+:: doh.tiarap.org
+:: jp.tiar.app
+:: jp.tiarap.org
+:: dns.twnic.tw
+#
+:: doh.xfinity.com
+:: doh.gslb2.xfinity.com
