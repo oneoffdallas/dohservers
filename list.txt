@@ -49,6 +49,7 @@
 #
 0.0.0.0 dns.google
 0.0.0.0 doh.li
+0.0.0.0 doh.defaultroutes.de
 0.0.0.0 dns.developer.li
 0.0.0.0 dns2.developer.li
 0.0.0.0 dns.digitale-gesellschaft.ch
