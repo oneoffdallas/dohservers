@@ -215,3 +215,6 @@
 
 # doh.libredns.gr
 116.203.115.192
+
+# doh.defaultroutes.de
+5.45.107.88
