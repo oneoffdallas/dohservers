@@ -7,16 +7,18 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 11 Jan 2020
+# Last modified: 31 Jan 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
 # 1.0.0.1
 
 # dns.cloudflare.com
-104.17.64.4
-104.17.65.4
+# (optional because cdnjs.cloudflare.com uses the same IPs)
+# 104.17.64.4
+# 104.17.65.4
 
+# NOTES
 # Quad9 is also using Port 5053 for DoH: (last checked 11 Jan 2020)
 # https://www.quad9.net/doh-quad9-dns-servers/#UsingDoHwithQuad9DNSServers-AdditionalInformation
 #
