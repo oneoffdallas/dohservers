@@ -108,6 +108,7 @@
 #
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
 0.0.0.0 doh.eastus.pi-dns.com
