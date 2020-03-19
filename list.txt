@@ -8,9 +8,17 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 11 Jan 2020
-
+# Last modified: 19 Mar 2020
+#
 0.0.0.0 doh.42l.fr
+#
+0.0.0.0 i.233py.com
+0.0.0.0 i.233py.com.a.bdydns.com
+0.0.0.0 opencdn.jomodns.com
+0.0.0.0 dns.233py.com
+0.0.0.0 dns.233py.com.cdn.cloudflare.net
+
+### following 233py.com need to be checked if still in use
 0.0.0.0 edns.233py.com
 0.0.0.0 ndns.233py.com
 0.0.0.0 sdns.233py.com
@@ -23,9 +31,11 @@
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnsse.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
+0.0.0.0 dohtrial.att.net
 #
 0.0.0.0 blahdns.com
 0.0.0.0 doh.blahdns.com
@@ -55,6 +65,7 @@
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
+0.0.0.0 dnsforge.de
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dns.sb
@@ -73,6 +84,7 @@
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
+0.0.0.0 dns.flatuslifir.is
 #
 0.0.0.0 dns.google.com
 0.0.0.0 google-public-dns-a.google.com
@@ -86,6 +98,7 @@
 #
 0.0.0.0 jcdns.fun
 #
+0.0.0.0 resolver-eu.lelux.fi
 0.0.0.0 doh.libredns.org
 0.0.0.0 doh.libredns.gr
 #
@@ -100,6 +113,7 @@
 0.0.0.0 odvr.nic.cz
 #
 0.0.0.0 doh.opendns.com
+0.0.0.0 doh.familyshield.opendns.com
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver2.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
