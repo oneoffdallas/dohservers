@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 31 Jan 2020
+# Last modified: 19 Mar 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
@@ -74,7 +74,6 @@
 45.90.30.0
 193.17.47.1
 185.43.135.1
-146.112.41.2
 136.144.215.158
 149.112.112.112
 9.9.9.9
@@ -131,6 +130,11 @@
 195.30.94.28
 
 # geekdns / 233py.com
+125.77.154.35
+104.27.164.27
+104.27.165.27
+
+### 233py's that need to checked
 47.101.136.37
 114.115.240.175
 119.29.107.85
@@ -186,12 +190,15 @@
 # alekberg.net
 51.15.124.208
 104.168.247.138
+45.153.187.96
 
 # dnslify.com
 185.235.81.1
 185.235.81.2
 
-# opendns.com
+# opendns.com (Cisco)
+146.112.41.2
+146.112.41.3
 208.67.222.222
 208.67.220.220
 208.67.222.123
@@ -219,3 +226,21 @@
 
 # doh.defaultroutes.de
 5.45.107.88
+
+# dns.flatuslifir.is
+46.239.223.80
+
+# resolver-eu.lelux.fi
+51.158.147.50
+
+# doh.applied-privacy.net
+93.177.65.183
+
+# dnsforge.de
+176.9.93.198
+176.9.1.117
+
+# dohtrial.att.net
+13.89.120.251
+40.76.112.230
+
