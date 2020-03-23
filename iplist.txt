@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 19 Mar 2020
+# Last modified: 23 Mar 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
@@ -111,7 +111,7 @@
 206.189.142.179
 
 # dns.brahma.world
-134.209.146.16
+94.130.224.114
 
 # commons.host
 139.162.131.245
@@ -244,3 +244,5 @@
 13.89.120.251
 40.76.112.230
 
+# rumpelsepp.org
+116.203.179.248
