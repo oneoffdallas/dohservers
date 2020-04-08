@@ -7,11 +7,15 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 # 
 # Added: 14 Oct 2019
-# Last modified: 23 Mar 2020
+# Last modified: 08 Apr 2020
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
 # 1.0.0.1
+# 1.1.1.2   //security.cloudflare-dns.com - see IPs further down this list
+# 1.0.0.2
+# 1.1.1.3   //family.cloudflare-dns.com
+# 1.0.0.3
 
 # dns.cloudflare.com
 # (optional because cdnjs.cloudflare.com uses the same IPs)
@@ -246,3 +250,27 @@
 
 # rumpelsepp.org
 116.203.179.248
+
+# dns.nixnet.xyz
+198.251.90.114
+198.251.90.89
+209.141.34.95
+199.195.251.84
+104.244.78.231
+
+# security.cloudflare-dns.com
+104.18.2.55
+104.18.3.55
+
+# family.cloudflare-dns.com
+104.18.26.128
+104.18.27.128
+
+# canadianshield.cira.ca
+149.112.121.10
+149.112.122.10
+149.112.121.20
+149.112.122.20
+149.112.121.30
+149.112.122.30
+
