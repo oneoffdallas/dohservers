@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 08 Apr 2020
+# Last modified: 14 Apr 2020
 #
 0.0.0.0 doh.42l.fr
 #
@@ -93,6 +93,7 @@
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 #
+0.0.0.0 ordns.he.net
 0.0.0.0 dns.hostux.net
 #
 0.0.0.0 public.dns.iij.jp
