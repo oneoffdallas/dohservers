@@ -8,9 +8,17 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 # 
 # Added: 18 Feb 2019
-# Last modified: 11 Jan 2020
-
+# Last modified: 14 Apr 2020
+#
 0.0.0.0 doh.42l.fr
+#
+0.0.0.0 i.233py.com
+0.0.0.0 i.233py.com.a.bdydns.com
+0.0.0.0 opencdn.jomodns.com
+0.0.0.0 dns.233py.com
+0.0.0.0 dns.233py.com.cdn.cloudflare.net
+
+### following 233py.com need to be checked if still in use
 0.0.0.0 edns.233py.com
 0.0.0.0 ndns.233py.com
 0.0.0.0 sdns.233py.com
@@ -23,9 +31,11 @@
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
+0.0.0.0 dnsse.alekberg.net
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 doh.armadillodns.net
+0.0.0.0 dohtrial.att.net
 #
 0.0.0.0 blahdns.com
 0.0.0.0 doh.blahdns.com
@@ -37,6 +47,7 @@
 #
 0.0.0.0 doh.captnemo.in
 0.0.0.0 ibuki.cgnat.net
+0.0.0.0 canadianshield.cira.ca
 0.0.0.0 doh.cleanbrowsing.org
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
@@ -49,11 +60,13 @@
 #
 0.0.0.0 dns.google
 0.0.0.0 doh.li
+0.0.0.0 doh.defaultroutes.de
 0.0.0.0 dns.developer.li
 0.0.0.0 dns2.developer.li
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
+0.0.0.0 dnsforge.de
 0.0.0.0 dns1.dnscrypt.ca
 0.0.0.0 dns2.dnscrypt.ca
 0.0.0.0 doh.dns.sb
@@ -72,6 +85,7 @@
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
+0.0.0.0 dns.flatuslifir.is
 #
 0.0.0.0 dns.google.com
 0.0.0.0 google-public-dns-a.google.com
@@ -79,12 +93,14 @@
 0.0.0.0 jp.gridns.xyz
 0.0.0.0 sg.gridns.xyz
 #
+0.0.0.0 ordns.he.net
 0.0.0.0 dns.hostux.net
 #
 0.0.0.0 public.dns.iij.jp
 #
 0.0.0.0 jcdns.fun
 #
+0.0.0.0 resolver-eu.lelux.fi
 0.0.0.0 doh.libredns.org
 0.0.0.0 doh.libredns.gr
 #
@@ -97,8 +113,14 @@
 0.0.0.0 dns1.nextdns.io
 0.0.0.0 dns2.nextdns.io
 0.0.0.0 odvr.nic.cz
+0.0.0.0 dns.nixnet.xyz
+0.0.0.0 lv1.nixnet.xyz
+0.0.0.0 ny1.nixnet.xyz
+0.0.0.0 lux1.nixnet.xyz
+
 #
 0.0.0.0 doh.opendns.com
+0.0.0.0 doh.familyshield.opendns.com
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver2.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
@@ -107,6 +129,7 @@
 #
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 doh.westus.pi-dns.com
 0.0.0.0 doh.eastus.pi-dns.com
@@ -125,6 +148,7 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
+0.0.0.0 rumpelsepp.org
 #
 0.0.0.0 doh.securedns.eu
 0.0.0.0 ads-doh.securedns.eu
