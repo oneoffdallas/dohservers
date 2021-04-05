@@ -1,16 +1,24 @@
 # DNS over HTTPS (DoH) server list
 # Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
 # You *must* re-direct all standard DNS outbound (UDP 53) to an internal server. This ensures the bootstrap address is your DNS server.
-# While you're at it, block all DNS over TLS outbound (TCP 853).
+# While you're at it, you should also block all DNS over TLS outbound (TCP 853).
 # Some would call this a whack-a-mole approach. I call it a marginal improvement. ;-)
 # Twitter: @oneoffdallas
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
-# Added: 20 Jan 2020
-# Last modified: 20 Jan 2020
-
+# Added: 18 Feb 2019
+# Last modified: 05 Apr 2021
+#
 :: doh.42l.fr
+#
+:: i.233py.com
+:: i.233py.com.a.bdydns.com
+:: opencdn.jomodns.com
+:: dns.233py.com
+:: dns.233py.com.cdn.cloudflare.net
+
+### following 233py.com need to be checked if still in use
 :: edns.233py.com
 :: ndns.233py.com
 :: sdns.233py.com
@@ -19,56 +27,152 @@
 :: dns-gcp.aaflalo.me
 :: dns-nyc.aaflalo.me
 :: dns.aaflalo.me
+:: doh.abmb.win
+:: doh2.abmb.win
 :: dns.adguard.com
 :: dns-family.adguard.com
-:: doh.appliedprivacy.net
-:: doh.armadillodns.net
 #
-:: blahdns.com
-:: doh.blahdns.com
-:: doh-ch.blahdns.com
+:: doh.nl.ahadns.net
+:: doh.in.ahadns.net
+:: doh.la.ahadns.net
+:: doh.ny.ahadns.net
+:: doh.pl.ahadns.net
+:: doh.it.ahadns.net
+:: doh.es.ahadns.net
+:: doh.no.ahadns.net
+:: doh.chi.ahadns.net
+:: doh.au.ahadns.net
+:: dot.nl.ahadns.net
+:: dot.in.ahadns.net
+:: dot.la.ahadns.net
+:: dot.ny.ahadns.net
+:: dot.pl.ahadns.net
+:: dot.it.ahadns.net
+:: dot.es.ahadns.net
+:: dot.no.ahadns.net
+:: dot.chi.ahadns.net
+:: dot.au.ahadns.net
+#
+:: dns.alekberg.net
+:: dns2.alekberg.net
+:: dnses.alekberg.net
+:: dnsnl.alekberg.net
+:: dnsse.alekberg.net
+:: dns.alidns.com
+#
+:: doh.appliedprivacy.net
+:: doh.applied-privacy.net
+:: dot1.applied-privacy.net
+#
+:: doh.armadillodns.net
+:: dohtrial.att.net
+#
+:: doh1.blahdns.com
+:: doh1.b-cdn.net
+:: doh2.blahdns.com
+:: doh2.b-cdn.net
+:: dot-ch.blahdns.com
+:: doh-fi.blahdns.com
 :: doh-de.blahdns.com
 :: doh-jp.blahdns.com
+:: doh-sg.blahdns.com
+#
+:: doh.blockerdns.com
+#
 :: dns.brahma.world
+#
+:: free.bravedns.com
+:: bravedns.com
 #
 :: doh.captnemo.in
 :: ibuki.cgnat.net
-:: doh.cleanbrowsing.org
+:: canadianshield.cira.ca
+:: family.canadianshield.cira.ca
+:: private.canadianshield.cira.ca
+:: family.canadianshield.cira.ca
+#
+:: dns.cloudflare.com
 :: cloudflare-dns.com
+:: 1dot1dot1dot1.cloudflare-dns.com
+:: one.one.one.one
+:: dns64.cloudflare-dns.com
+:: family.cloudflare-dns.com
 :: mozilla.cloudflare-dns.com
+:: security.cloudflare-dns.com
+:: cloudflare-gateway.com
+#
+:: doh.cleanbrowsing.org
+:: security-filter-dns.cleanbrowsing.org
+:: adult-filter-dns.cleanbrowsing.org
+:: family-filter-dns.cleanbrowsing.org
+#
 :: dns.cmrg.net
 :: commons.host
 :: dns.containerpi.com
+:: dohdot.coxlab.net
 :: doh.crypto.sx
 #
-:: dns.google
-:: doh.li
+:: jit.ddns.net
+:: dns.decloudus.com
+:: doh.defaultroutes.de
 :: dns.developer.li
 :: dns2.developer.li
 :: dns.digitale-gesellschaft.ch
 :: dns1.digitale-gesellschaft.ch
 :: dns2.digitale-gesellschaft.ch
+:: ns1.recursive.dnsbycomodo.com
+:: ns2.recursive.dnsbycomodo.com
+:: dnsforge.de
+:: dns.google
+:: dns64.dns.google
+:: dns.dnshome.de
 :: dns1.dnscrypt.ca
 :: dns2.dnscrypt.ca
 :: doh.dns.sb
-:: dns.dns-over-https.com
+:: public-dns-a.dns.sb
+:: public-dns-b.dns.sb
+#
+:: doh.dnslify.com
+:: a.ns.dnslify.com
+:: b.ns.dnslify.com
+:: a.safe.ns.dnslify.com
+:: b.safe.ns.dnslify.com
+:: a.family.ns.dnslify.com
+:: b.family.ns.dnslify.com
+#
 :: dns.dnsoverhttps.net
-:: dnswarden.com
-:: doh1.dnswarden.com
-:: doh2.dnswarden.com
+:: dns.dns-over-https.com
+:: adblock-dot.dnswarden.com
+:: adult-filter-dot.dnswarden.com
+:: doh.dnswarden.com
+:: ecs-doh.dnswarden.com
 :: uncensored-dot.dnswarden.com
+:: doh.li
 #
 :: doh.ffmuc.net
 :: rdns.faelix.net
+:: pdns.faelix.net
+:: dns.flatuslifir.is
 #
 :: dns.google.com
-:: jp.gridns.xyz
-:: sg.gridns.xyz
+:: google-public-dns-a.google.com
+:: google-public-dns-b.google.com
+#
+:: ordns.he.net
+:: dns.hostux.net
 #
 :: public.dns.iij.jp
 #
-:: doh.libredns.org
+:: jcdns.fun
 #
+:: us1.dns.lavate.ch
+:: eu1.dns.lavate.ch
+:: resolver-eu.lelux.fi
+:: doh.libredns.org
+:: doh.libredns.gr
+#
+:: jarjar.meganerd.nl
+:: dns.mrkaran.dev
 :: adblock.mydns.network
 #
 :: dns.neutopia.org
@@ -78,39 +182,80 @@
 :: dns1.nextdns.io
 :: dns2.nextdns.io
 :: odvr.nic.cz
+:: dns.nixnet.xyz
+:: lv1.nixnet.xyz
+:: ny1.nixnet.xyz
+:: lux1.nixnet.xyz
+
 #
 :: doh.opendns.com
+:: doh.familyshield.opendns.com
+:: doh.sandbox.opendns.com
+:: resolver1.opendns.com
+:: resolver2.opendns.com
+:: resolver1-fs.opendns.com
+:: resolver2-fs.opendns.com
 :: dns.oszx.co
 #
-:: doh.northeu.pi-dns.com
-:: doh.westeu.pi-dns.com
-:: doh.westus.pi-dns.com
-:: doh.eastus.pi-dns.com
+:: rpz-public-resolver1.rrdns.pch.net
 :: dns.pumplex.com
 :: doh.powerdns.org
+#
+# alias for dns.quad9.net
+:: rpz-public-resolver1.rrdns.pch.net
 #
 :: dns.quad9.net
 :: dns9.quad9.net
 :: dns10.quad9.net
 :: dns11.quad9.net
+:: dns-nosec.quad9.net
 #
 :: dns.rubyfish.cn
 :: ea-dns.rubyfish.cn
 :: uw-dns.rubyfish.cn
+:: rumpelsepp.org
 #
 :: doh.securedns.eu
 :: ads-doh.securedns.eu
+#
 :: doh.seby.io
 :: doh-2.seby.io
+:: dot.seby.io
+:: 2.dnscrypt-cert.dns.seby.io
+#
 :: dnsovertls.sinodun.com
 :: dnsovertls1.sinodun.com
+:: fi.doh.dns.snopyta.org
+:: dns.switch.ch
 :: ibksturm.synology.me
 #
+:: dns.t53.de
 :: doh.tiar.app
 :: doh.tiarap.org
 :: jp.tiar.app
 :: jp.tiarap.org
 :: dns.twnic.tw
 #
+:: dns.wugui.zone
+:: dns-asia.wugui.zone
+#
+:: adfree.usableprivacy.net
+#
 :: doh.xfinity.com
 :: doh.gslb2.xfinity.com
+#
+:: fdns1.dismail.de
+:: fdns2.dismail.de
+#
+:: anycast.censurfridns.dk
+:: deic-lgb.anycast.censurfridns.dk
+:: deic-ore.anycast.censurfridns.dk
+:: kracon.anycast.censurfridns.dk
+:: rgnet-iad.anycast.censurfridns.dk
+:: unicast.censurfridns.dk
+:: anycast.uncensoreddns.org
+:: deic-lgb.anycast.uncensoreddns.org
+:: deic-ore.anycast.uncensoreddns.org
+:: kracon.anycast.uncensoreddns.org
+:: rgnet-iad.anycast.uncensoreddns.org
+:: unicast.uncensoreddns.org

@@ -1,4 +1,4 @@
-# DNS over HTTPS (DoH) server list 
+# DNS over HTTPS (DoH) server list
 # Servers are in order by the domain name, then subdomain name to help maintain sanity as the list grows.
 # You *must* re-direct all standard DNS outbound (UDP 53) to an internal server. This ensures the bootstrap address is your DNS server.
 # While you're at it, you should also block all DNS over TLS outbound (TCP 853).
@@ -6,9 +6,9 @@
 # Twitter: @oneoffdallas
 # Homepage: https://github.com/oneoffdallas/dohservers
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
-# 
+#
 # Added: 18 Feb 2019
-# Last modified: 28 Dec 2020
+# Last modified: 05 Apr 2021
 #
 0.0.0.0 doh.42l.fr
 #
@@ -27,30 +27,60 @@
 0.0.0.0 dns-gcp.aaflalo.me
 0.0.0.0 dns-nyc.aaflalo.me
 0.0.0.0 dns.aaflalo.me
+0.0.0.0 doh.abmb.win
+0.0.0.0 doh2.abmb.win
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
-0.0.0.0 doh.in.ahadns.net
+#
 0.0.0.0 doh.nl.ahadns.net
-0.0.0.0 doh.us.ahadns.net
+0.0.0.0 doh.in.ahadns.net
+0.0.0.0 doh.la.ahadns.net
+0.0.0.0 doh.ny.ahadns.net
+0.0.0.0 doh.pl.ahadns.net
+0.0.0.0 doh.it.ahadns.net
+0.0.0.0 doh.es.ahadns.net
+0.0.0.0 doh.no.ahadns.net
+0.0.0.0 doh.chi.ahadns.net
+0.0.0.0 doh.au.ahadns.net
+0.0.0.0 dot.nl.ahadns.net
+0.0.0.0 dot.in.ahadns.net
+0.0.0.0 dot.la.ahadns.net
+0.0.0.0 dot.ny.ahadns.net
+0.0.0.0 dot.pl.ahadns.net
+0.0.0.0 dot.it.ahadns.net
+0.0.0.0 dot.es.ahadns.net
+0.0.0.0 dot.no.ahadns.net
+0.0.0.0 dot.chi.ahadns.net
+0.0.0.0 dot.au.ahadns.net
+#
 0.0.0.0 dns.alekberg.net
 0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsse.alekberg.net
 0.0.0.0 dns.alidns.com
+#
 0.0.0.0 doh.appliedprivacy.net
 0.0.0.0 doh.applied-privacy.net
+0.0.0.0 dot1.applied-privacy.net
+#
 0.0.0.0 doh.armadillodns.net
 0.0.0.0 dohtrial.att.net
 #
-0.0.0.0 blahdns.com
-0.0.0.0 doh.blahdns.com
-0.0.0.0 doh-ch.blahdns.com
-0.0.0.0 doh-de.blahdns.com
+0.0.0.0 doh1.blahdns.com
+0.0.0.0 doh1.b-cdn.net
+0.0.0.0 doh2.blahdns.com
+0.0.0.0 doh2.b-cdn.net
+0.0.0.0 dot-ch.blahdns.com
 0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 doh-de.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 doh-sg.blahdns.com
+#
 0.0.0.0 doh.blockerdns.com
+#
 0.0.0.0 dns.brahma.world
+#
 0.0.0.0 free.bravedns.com
 0.0.0.0 bravedns.com
 #
@@ -60,13 +90,22 @@
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
-0.0.0.0 doh.cleanbrowsing.org
+#
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
+0.0.0.0 1dot1dot1dot1.cloudflare-dns.com
+0.0.0.0 one.one.one.one
 0.0.0.0 dns64.cloudflare-dns.com
 0.0.0.0 family.cloudflare-dns.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 security.cloudflare-dns.com
+0.0.0.0 cloudflare-gateway.com
+#
+0.0.0.0 doh.cleanbrowsing.org
+0.0.0.0 security-filter-dns.cleanbrowsing.org
+0.0.0.0 adult-filter-dns.cleanbrowsing.org
+0.0.0.0 family-filter-dns.cleanbrowsing.org
+#
 0.0.0.0 dns.cmrg.net
 0.0.0.0 commons.host
 0.0.0.0 dns.containerpi.com
@@ -74,12 +113,15 @@
 0.0.0.0 doh.crypto.sx
 #
 0.0.0.0 jit.ddns.net
+0.0.0.0 dns.decloudus.com
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 dns.developer.li
 0.0.0.0 dns2.developer.li
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
+0.0.0.0 ns1.recursive.dnsbycomodo.com
+0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 dnsforge.de
 0.0.0.0 dns.google
 0.0.0.0 dns64.dns.google
@@ -89,11 +131,17 @@
 0.0.0.0 doh.dns.sb
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb
+#
 0.0.0.0 doh.dnslify.com
 0.0.0.0 a.ns.dnslify.com
 0.0.0.0 b.ns.dnslify.com
-0.0.0.0 dns.dns-over-https.com
+0.0.0.0 a.safe.ns.dnslify.com
+0.0.0.0 b.safe.ns.dnslify.com
+0.0.0.0 a.family.ns.dnslify.com
+0.0.0.0 b.family.ns.dnslify.com
+#
 0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 dns.dns-over-https.com
 0.0.0.0 adblock-dot.dnswarden.com
 0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.dnswarden.com
@@ -103,13 +151,12 @@
 #
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 rdns.faelix.net
+0.0.0.0 pdns.faelix.net
 0.0.0.0 dns.flatuslifir.is
 #
 0.0.0.0 dns.google.com
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 google-public-dns-b.google.com
-0.0.0.0 jp.gridns.xyz
-0.0.0.0 sg.gridns.xyz
 #
 0.0.0.0 ordns.he.net
 0.0.0.0 dns.hostux.net
@@ -124,6 +171,8 @@
 0.0.0.0 doh.libredns.org
 0.0.0.0 doh.libredns.gr
 #
+0.0.0.0 jarjar.meganerd.nl
+0.0.0.0 dns.mrkaran.dev
 0.0.0.0 adblock.mydns.network
 #
 0.0.0.0 dns.neutopia.org
@@ -141,6 +190,7 @@
 #
 0.0.0.0 doh.opendns.com
 0.0.0.0 doh.familyshield.opendns.com
+0.0.0.0 doh.sandbox.opendns.com
 0.0.0.0 resolver1.opendns.com
 0.0.0.0 resolver2.opendns.com
 0.0.0.0 resolver1-fs.opendns.com
@@ -148,14 +198,6 @@
 0.0.0.0 dns.oszx.co
 #
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
-0.0.0.0 doh.pi-dns.com
-0.0.0.0 doh.centraleu.pi-dns.com
-0.0.0.0 doh.eastas.pi-dns.com
-0.0.0.0 doh.eastau.pi-dns.com
-0.0.0.0 doh.eastus.pi-dns.com
-0.0.0.0 doh.northeu.pi-dns.com
-0.0.0.0 doh.westeu.pi-dns.com
-0.0.0.0 doh.westus.pi-dns.com
 0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
@@ -175,8 +217,12 @@
 #
 0.0.0.0 doh.securedns.eu
 0.0.0.0 ads-doh.securedns.eu
+#
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
+0.0.0.0 dot.seby.io
+0.0.0.0 2.dnscrypt-cert.dns.seby.io
+#
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
 0.0.0.0 fi.doh.dns.snopyta.org
@@ -193,5 +239,23 @@
 0.0.0.0 dns.wugui.zone
 0.0.0.0 dns-asia.wugui.zone
 #
+0.0.0.0 adfree.usableprivacy.net
+#
 0.0.0.0 doh.xfinity.com
 0.0.0.0 doh.gslb2.xfinity.com
+#
+0.0.0.0 fdns1.dismail.de
+0.0.0.0 fdns2.dismail.de
+#
+0.0.0.0 anycast.censurfridns.dk
+0.0.0.0 deic-lgb.anycast.censurfridns.dk
+0.0.0.0 deic-ore.anycast.censurfridns.dk
+0.0.0.0 kracon.anycast.censurfridns.dk
+0.0.0.0 rgnet-iad.anycast.censurfridns.dk
+0.0.0.0 unicast.censurfridns.dk
+0.0.0.0 anycast.uncensoreddns.org
+0.0.0.0 deic-lgb.anycast.uncensoreddns.org
+0.0.0.0 deic-ore.anycast.uncensoreddns.org
+0.0.0.0 kracon.anycast.uncensoreddns.org
+0.0.0.0 rgnet-iad.anycast.uncensoreddns.org
+0.0.0.0 unicast.uncensoreddns.org
