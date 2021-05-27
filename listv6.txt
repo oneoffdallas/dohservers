@@ -95,6 +95,7 @@
 :: cloudflare-dns.com
 :: 1dot1dot1dot1.cloudflare-dns.com
 :: one.one.one.one
+:: chrome.cloudflare-dns.com
 :: dns64.cloudflare-dns.com
 :: family.cloudflare-dns.com
 :: mozilla.cloudflare-dns.com
@@ -154,6 +155,7 @@
 :: pdns.faelix.net
 :: dns.flatuslifir.is
 #
+:: 8888.google
 :: dns.google.com
 :: google-public-dns-a.google.com
 :: google-public-dns-b.google.com
@@ -181,6 +183,7 @@
 :: dns.nextdns.io
 :: dns1.nextdns.io
 :: dns2.nextdns.io
+:: chromium.nextdns.io
 :: odvr.nic.cz
 :: dns.nixnet.xyz
 :: lv1.nixnet.xyz
@@ -259,3 +262,8 @@
 :: kracon.anycast.uncensoreddns.org
 :: rgnet-iad.anycast.uncensoreddns.org
 :: unicast.uncensoreddns.org
+#
+:: doh.quickline.ch
+#
+:: doh-01.spectrum.com
+:: doh-02.spectrum.com
