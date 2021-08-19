@@ -225,6 +225,7 @@
 #
 0.0.0.0 doh.securedns.eu
 0.0.0.0 ads-doh.securedns.eu
+0.0.0.0 dot.securedns.eu
 #
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
@@ -271,6 +272,7 @@
 0.0.0.0 kracon.anycast.uncensoreddns.org
 0.0.0.0 rgnet-iad.anycast.uncensoreddns.org
 0.0.0.0 unicast.uncensoreddns.org
+#
 0.0.0.0 dns.comss.one
 0.0.0.0 dns.east.comss.one
 0.0.0.0 dns-doh.dnsforfamily.com
@@ -284,14 +286,13 @@
 0.0.0.0 dns.pub
 0.0.0.0 dot.pub
 0.0.0.0 kaitain.restena.lu
-0.0.0.0 dot.ffmuc.net
 0.0.0.0 getdnsapi.net
 0.0.0.0 dns.larsdebruin.net
+0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 ns1.dnsprivacy.at
 0.0.0.0 ns2.dnsprivacy.at
 0.0.0.0 dns.bitgeek.in
 0.0.0.0 privacydns.go6lab.si
-0.0.0.0 dot.securedns.eu
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 tls-dns-u.odvr.dns-oarc.net
 0.0.0.0 doh.centraleu.pi-dns.com
