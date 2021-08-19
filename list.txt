@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 05 Apr 2021
+# Last modified: 19 Aug 2021
 #
 0.0.0.0 doh.42l.fr
 #
@@ -31,6 +31,7 @@
 0.0.0.0 doh2.abmb.win
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
+0.0.0.0 dns-unfiltered.adguard.com
 #
 0.0.0.0 doh.nl.ahadns.net
 0.0.0.0 doh.in.ahadns.net
@@ -72,9 +73,14 @@
 0.0.0.0 doh2.blahdns.com
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dot-ch.blahdns.com
+0.0.0.0 doh-ch.blahdns.com
+0.0.0.0 dot-fi.blahdns.com
 0.0.0.0 doh-fi.blahdns.com
+0.0.0.0 dot-de.blahdns.com
 0.0.0.0 doh-de.blahdns.com
+0.0.0.0 dot-jp.blahdns.com
 0.0.0.0 doh-jp.blahdns.com
+0.0.0.0 dot-sg.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
 #
 0.0.0.0 doh.blockerdns.com
@@ -89,7 +95,7 @@
 0.0.0.0 canadianshield.cira.ca
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
-0.0.0.0 family.canadianshield.cira.ca
+0.0.0.0 protected.canadianshield.cira.ca
 #
 0.0.0.0 dns.cloudflare.com
 0.0.0.0 cloudflare-dns.com
@@ -150,6 +156,7 @@
 0.0.0.0 doh.li
 #
 0.0.0.0 doh.ffmuc.net
+0.0.0.0 dot.ffmuc.net
 0.0.0.0 rdns.faelix.net
 0.0.0.0 pdns.faelix.net
 0.0.0.0 dns.flatuslifir.is
@@ -169,6 +176,7 @@
 0.0.0.0 eu1.dns.lavate.ch
 0.0.0.0 resolver-eu.lelux.fi
 0.0.0.0 doh.libredns.org
+0.0.0.0 dot.libredns.gr.com
 0.0.0.0 doh.libredns.gr
 #
 0.0.0.0 jarjar.meganerd.nl
@@ -217,6 +225,7 @@
 #
 0.0.0.0 doh.securedns.eu
 0.0.0.0 ads-doh.securedns.eu
+0.0.0.0 dot.securedns.eu
 #
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
@@ -225,12 +234,16 @@
 #
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
+0.0.0.0 dnsovertls2.sinodun.com
+0.0.0.0 dnsovertls3.sinodun.com
 0.0.0.0 fi.doh.dns.snopyta.org
+0.0.0.0 fi.dot.dns.snopyta.org
 0.0.0.0 dns.switch.ch
 0.0.0.0 ibksturm.synology.me
 #
 0.0.0.0 dns.t53.de
 0.0.0.0 doh.tiar.app
+0.0.0.0 dot.tiar.app
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiar.app
 0.0.0.0 jp.tiarap.org
@@ -259,3 +272,48 @@
 0.0.0.0 kracon.anycast.uncensoreddns.org
 0.0.0.0 rgnet-iad.anycast.uncensoreddns.org
 0.0.0.0 unicast.uncensoreddns.org
+#
+0.0.0.0 dns.comss.one
+0.0.0.0 dns.east.comss.one
+0.0.0.0 dns-doh.dnsforfamily.com
+0.0.0.0 dns-dot.dnsforfamily.com
+0.0.0.0 dns.cfiec.net
+0.0.0.0 asia.dnscepat.id
+0.0.0.0 eropa.dnscepat.id
+0.0.0.0 doh.360.cn
+0.0.0.0 dot.360.cn
+0.0.0.0 doh.pub
+0.0.0.0 dns.pub
+0.0.0.0 dot.pub
+0.0.0.0 kaitain.restena.lu
+0.0.0.0 getdnsapi.net
+0.0.0.0 dns.larsdebruin.net
+0.0.0.0 dns-tls.bitwiseshift.net
+0.0.0.0 ns1.dnsprivacy.at
+0.0.0.0 ns2.dnsprivacy.at
+0.0.0.0 dns.bitgeek.in
+0.0.0.0 privacydns.go6lab.si
+0.0.0.0 dnsotls.lab.nic.cl
+0.0.0.0 tls-dns-u.odvr.dns-oarc.net
+0.0.0.0 doh.centraleu.pi-dns.com
+0.0.0.0 dot.centraleu.pi-dns.com
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 dot.northeu.pi-dns.com
+0.0.0.0 doh.westus.pi-dns.com
+0.0.0.0 dot.westus.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
+0.0.0.0 dot.eastus.pi-dns.com
+0.0.0.0 doh.eastau.pi-dns.com
+0.0.0.0 dot.eastau.pi-dns.com
+0.0.0.0 doh.eastas.pi-dns.com
+0.0.0.0 dot.eastas.pi-dns.com
+0.0.0.0 doh.pi-dns.com
+0.0.0.0 basic.bravedns.com
+0.0.0.0 freedns.controld.com
+0.0.0.0 p0.freedns.controld.com
+0.0.0.0 p1.freedns.controld.com
+0.0.0.0 p2.freedns.controld.com
+0.0.0.0 p3.freedns.controld.com
+0.0.0.0 doh.mullvad.net
+0.0.0.0 adblock.doh.mullvad.net
+0.0.0.0 dns.arapurayil.com
