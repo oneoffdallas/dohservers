@@ -209,6 +209,9 @@
 0.0.0.0 dns.pumplex.com
 0.0.0.0 doh.powerdns.org
 #
+0.0.0.0 a.passcloud.xyz
+0.0.0.0 i.passcloud.xyz
+#
 # alias for dns.quad9.net
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
 #
@@ -216,6 +219,8 @@
 0.0.0.0 dns9.quad9.net
 0.0.0.0 dns10.quad9.net
 0.0.0.0 dns11.quad9.net
+0.0.0.0 dns12.quad9.net
+0.0.0.0 dns13.quad9.net
 0.0.0.0 dns-nosec.quad9.net
 #
 0.0.0.0 dns.rubyfish.cn
