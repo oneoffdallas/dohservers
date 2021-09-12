@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 19 Aug 2021
+# Last modified: 11 Sept 2021
 #
 :: doh.42l.fr
 #
@@ -319,3 +319,15 @@
 :: doh.mullvad.net
 :: adblock.doh.mullvad.net
 :: dns.arapurayil.com
+#
+:: chrome.cloudflare-dns.com
+:: dot.xfinity.com
+:: doh.xfinity.com
+:: dot.cox.net
+:: doh.cox.net
+:: dns.sb
+:: 8888.google
+:: chromium.dns.nextdns.io
+:: doh.quickline.ch
+:: doh-02.spectrum.com
+:: doh-01.spectrum.com
