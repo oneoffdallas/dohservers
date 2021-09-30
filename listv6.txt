@@ -331,3 +331,6 @@
 :: doh.quickline.ch
 :: doh-02.spectrum.com
 :: doh-01.spectrum.com
+#
+:: mask.icloud.com
+:: mask-h2.icloud.com

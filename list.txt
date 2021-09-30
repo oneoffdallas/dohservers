@@ -333,3 +333,6 @@
 0.0.0.0 doh.quickline.ch
 0.0.0.0 doh-02.spectrum.com
 0.0.0.0 doh-01.spectrum.com
+#
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
