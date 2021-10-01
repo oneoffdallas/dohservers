@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 30 Sept 2021
+# Last modified: 1 Oct 2021
 #
 0.0.0.0 doh.42l.fr
 #
@@ -82,11 +82,9 @@
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 dot-sg.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
-#
 0.0.0.0 doh.blockerdns.com
-#
+0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 dns.brahma.world
-#
 0.0.0.0 free.bravedns.com
 0.0.0.0 bravedns.com
 #
@@ -165,9 +163,11 @@
 0.0.0.0 google-public-dns-a.google.com
 0.0.0.0 google-public-dns-b.google.com
 #
+0.0.0.0 query.hdns.io
 0.0.0.0 ordns.he.net
 0.0.0.0 dns.hostux.net
 #
+0.0.0.0 opennic.i2pd.xyz
 0.0.0.0 public.dns.iij.jp
 #
 0.0.0.0 jcdns.fun
@@ -194,6 +194,7 @@
 0.0.0.0 lv1.nixnet.xyz
 0.0.0.0 ny1.nixnet.xyz
 0.0.0.0 lux1.nixnet.xyz
+0.0.0.0 dns.njal.la
 
 #
 0.0.0.0 doh.opendns.com
@@ -205,12 +206,14 @@
 0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 dns.oszx.co
 #
-0.0.0.0 rpz-public-resolver1.rrdns.pch.net
-0.0.0.0 dns.pumplex.com
-0.0.0.0 doh.powerdns.org
-#
+
 0.0.0.0 a.passcloud.xyz
 0.0.0.0 i.passcloud.xyz
+0.0.0.0 doh.post-factum.tk
+0.0.0.0 doh.powerdns.org
+0.0.0.0 rpz-public-resolver1.rrdns.pch.net
+0.0.0.0 dns.pumplex.com
+#
 #
 # alias for dns.quad9.net
 0.0.0.0 rpz-public-resolver1.rrdns.pch.net
@@ -227,6 +230,7 @@
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
 0.0.0.0 rumpelsepp.org
+0.0.0.0 dns1.ryan-palmer.com
 #
 0.0.0.0 doh.securedns.eu
 0.0.0.0 ads-doh.securedns.eu
@@ -247,6 +251,7 @@
 0.0.0.0 ibksturm.synology.me
 #
 0.0.0.0 dns.t53.de
+0.0.0.0 dns.therifleman.name
 0.0.0.0 doh.tiar.app
 0.0.0.0 dot.tiar.app
 0.0.0.0 doh.tiarap.org
@@ -254,6 +259,7 @@
 0.0.0.0 jp.tiarap.org
 0.0.0.0 dns.twnic.tw
 #
+0.0.0.0 doh.this.web.id
 0.0.0.0 dns.wugui.zone
 0.0.0.0 dns-asia.wugui.zone
 #
