@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 30 Sept 2021
+# Last modified: 1 Oct 2021
 #
 :: doh.42l.fr
 #
@@ -82,11 +82,9 @@
 :: doh-jp.blahdns.com
 :: dot-sg.blahdns.com
 :: doh-sg.blahdns.com
-#
 :: doh.blockerdns.com
-#
+:: doh.bortzmeyer.fr
 :: dns.brahma.world
-#
 :: free.bravedns.com
 :: bravedns.com
 #
@@ -168,6 +166,7 @@
 :: ordns.he.net
 :: dns.hostux.net
 #
+:: opennic.i2pd.xyz
 :: public.dns.iij.jp
 #
 :: jcdns.fun
@@ -205,6 +204,7 @@
 :: resolver2-fs.opendns.com
 :: dns.oszx.co
 #
+:: doh.post-factum.tk
 :: rpz-public-resolver1.rrdns.pch.net
 :: dns.pumplex.com
 :: doh.powerdns.org
