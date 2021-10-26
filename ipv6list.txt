@@ -192,3 +192,7 @@ Last modified: 12 Sept 2021
 2a0d:4d00:81::4
 2a0d:4d00:81::5
 2a0d:4d00:81::6
+
+# nextdns
+2a07:a8c0::7d:7d77
+2a07:a8c1::7d:7d77
