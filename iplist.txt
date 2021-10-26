@@ -7,7 +7,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt
 #
 # Added: 14 Oct 2019
-# Last modified: 12 Sept 2021
+# Last modified: 26 Oct 2021
 
 # Optionally include Cloudflare's main addresses (Google and Quad9 included below)
 # 1.1.1.1
@@ -359,3 +359,7 @@
 # *.seby.io
 45.76.113.31
 139.99.222.72
+
+# nextdns
+45.90.28.128
+45.90.30.128
