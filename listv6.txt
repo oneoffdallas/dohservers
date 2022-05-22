@@ -10,6 +10,9 @@
 # Added: 18 Feb 2019
 # Last modified: 1 Oct 2021
 #
+# block firefox application DoH
+:: use-application-dns.net
+#
 :: doh.42l.fr
 #
 :: i.233py.com
