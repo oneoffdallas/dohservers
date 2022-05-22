@@ -12,6 +12,12 @@
 #
 # block firefox application DoH
 :: use-application-dns.net
+:: firefox.dns.nextdns.io
+:: mozilla.cloudflare-dns.com
+#
+# Apple DoH
+:: doh.dns.apple.com.v.aaplimg.com
+:: doh.dns.apple.com
 #
 :: doh.42l.fr
 #
