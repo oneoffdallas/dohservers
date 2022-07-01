@@ -124,6 +124,7 @@
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
+0.0.0.0 doh.disconnect.app
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 dnsforge.de
