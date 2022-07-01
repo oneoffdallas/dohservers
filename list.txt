@@ -54,8 +54,6 @@
 0.0.0.0 dot.chi.ahadns.net
 0.0.0.0 dot.au.ahadns.net
 #
-0.0.0.0 dns.alekberg.net
-0.0.0.0 dns2.alekberg.net
 0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsse.alekberg.net
