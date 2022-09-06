@@ -32,6 +32,9 @@
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
 0.0.0.0 dns-unfiltered.adguard.com
+0.0.0.0 dns.adguard-dns.com
+0.0.0.0 family.adguard-dns.com
+0.0.0.0 unfiltered.adguard-dns.com
 #
 0.0.0.0 doh.nl.ahadns.net
 0.0.0.0 doh.in.ahadns.net
@@ -176,6 +179,7 @@
 0.0.0.0 resolver-eu.lelux.fi
 0.0.0.0 doh.libredns.org
 0.0.0.0 dot.libredns.gr.com
+0.0.0.0 dot.libredns.gr
 0.0.0.0 doh.libredns.gr
 #
 0.0.0.0 jarjar.meganerd.nl
@@ -324,6 +328,8 @@
 0.0.0.0 p1.freedns.controld.com
 0.0.0.0 p2.freedns.controld.com
 0.0.0.0 p3.freedns.controld.com
+0.0.0.0 family.freedns.controld.com
+0.0.0.0 uncensored.freedns.controld.com
 0.0.0.0 doh.mullvad.net
 0.0.0.0 adblock.doh.mullvad.net
 0.0.0.0 dns.arapurayil.com
@@ -341,3 +347,10 @@
 #
 0.0.0.0 mask.icloud.com
 0.0.0.0 mask-h2.icloud.com
+#
+0.0.0.0 dandelionsprout.asuscomm.com
+#
+0.0.0.0 basic.rethinkdns.com
+0.0.0.0 max.rethinkdns.com
+#
+0.0.0.0 anycast.dns.nextdns.io
