@@ -62,8 +62,6 @@
 :: dot.chi.ahadns.net
 :: dot.au.ahadns.net
 #
-:: dns.alekberg.net
-:: dns2.alekberg.net
 :: dnses.alekberg.net
 :: dnsnl.alekberg.net
 :: dnsse.alekberg.net
@@ -132,6 +130,7 @@
 :: dns.digitale-gesellschaft.ch
 :: dns1.digitale-gesellschaft.ch
 :: dns2.digitale-gesellschaft.ch
+:: doh.disconnect.app
 :: ns1.recursive.dnsbycomodo.com
 :: ns2.recursive.dnsbycomodo.com
 :: dnsforge.de
