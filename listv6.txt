@@ -10,6 +10,14 @@
 # Added: 18 Feb 2019
 # Last modified: 1 Oct 2021
 #
+# block firefox application DoH
+:: firefox.dns.nextdns.io
+:: mozilla.cloudflare-dns.com
+#
+# Apple DoH
+:: doh.dns.apple.com.v.aaplimg.com
+:: doh.dns.apple.com
+#
 :: doh.42l.fr
 #
 :: i.233py.com
