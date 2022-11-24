@@ -14,10 +14,18 @@
 0.0.0.0 firefox.dns.nextdns.io
 0.0.0.0 mozilla.cloudflare-dns.com
 #
-# Apple DoH
+# Apple DoH / "Private Relay"
 0.0.0.0 doh.dns.apple.com.v.aaplimg.com
 0.0.0.0 doh.dns.apple.com
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com
+0.0.0.0 mask-api.fe.apple-dns.net
+0.0.0.0 gateway.fe.apple-dns.net
 #
+#
+#
+#
+#Unknown? 
 0.0.0.0 doh.42l.fr
 #
 0.0.0.0 i.233py.com
