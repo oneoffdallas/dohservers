@@ -8,7 +8,7 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt
 #
 # Added: 18 Feb 2019
-# Last modified: 1 Oct 2021
+# Last modified: 13 Dec 2022
 #
 # block firefox application DoH
 0.0.0.0 firefox.dns.nextdns.io
@@ -53,7 +53,6 @@
 0.0.0.0 doh.es.ahadns.net
 0.0.0.0 doh.no.ahadns.net
 0.0.0.0 doh.chi.ahadns.net
-0.0.0.0 doh.au.ahadns.net
 0.0.0.0 dot.nl.ahadns.net
 0.0.0.0 dot.in.ahadns.net
 0.0.0.0 dot.la.ahadns.net
@@ -63,9 +62,7 @@
 0.0.0.0 dot.es.ahadns.net
 0.0.0.0 dot.no.ahadns.net
 0.0.0.0 dot.chi.ahadns.net
-0.0.0.0 dot.au.ahadns.net
 #
-0.0.0.0 dnses.alekberg.net
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dnsse.alekberg.net
 0.0.0.0 dns.alidns.com
@@ -91,7 +88,6 @@
 0.0.0.0 doh-jp.blahdns.com
 0.0.0.0 dot-sg.blahdns.com
 0.0.0.0 doh-sg.blahdns.com
-0.0.0.0 doh.blockerdns.com
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 dns.brahma.world
 0.0.0.0 free.bravedns.com
@@ -155,12 +151,7 @@
 0.0.0.0 b.family.ns.dnslify.com
 #
 0.0.0.0 dns.dnsoverhttps.net
-0.0.0.0 dns.dns-over-https.com
-0.0.0.0 adblock-dot.dnswarden.com
-0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.dnswarden.com
-0.0.0.0 ecs-doh.dnswarden.com
-0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 doh.li
 #
 0.0.0.0 doh.ffmuc.net
@@ -190,18 +181,14 @@
 0.0.0.0 dot.libredns.gr
 0.0.0.0 doh.libredns.gr
 #
-0.0.0.0 jarjar.meganerd.nl
-0.0.0.0 dns.mrkaran.dev
 0.0.0.0 adblock.mydns.network
 #
 0.0.0.0 dns.neutopia.org
 0.0.0.0 dns.aa.net.uk
-0.0.0.0 doh.netweaver.uk
 0.0.0.0 dns.nextdns.io
 0.0.0.0 dns1.nextdns.io
 0.0.0.0 dns2.nextdns.io
 0.0.0.0 odvr.nic.cz
-0.0.0.0 dns.nixnet.xyz
 0.0.0.0 lv1.nixnet.xyz
 0.0.0.0 ny1.nixnet.xyz
 0.0.0.0 lux1.nixnet.xyz
@@ -243,14 +230,9 @@
 0.0.0.0 rumpelsepp.org
 0.0.0.0 dns1.ryan-palmer.com
 #
-0.0.0.0 doh.securedns.eu
-0.0.0.0 ads-doh.securedns.eu
-0.0.0.0 dot.securedns.eu
-#
 0.0.0.0 doh.seby.io
 0.0.0.0 doh-2.seby.io
 0.0.0.0 dot.seby.io
-0.0.0.0 2.dnscrypt-cert.dns.seby.io
 #
 0.0.0.0 dnsovertls.sinodun.com
 0.0.0.0 dnsovertls1.sinodun.com
@@ -270,7 +252,6 @@
 0.0.0.0 jp.tiarap.org
 0.0.0.0 dns.twnic.tw
 #
-0.0.0.0 doh.this.web.id
 0.0.0.0 dns.wugui.zone
 0.0.0.0 dns-asia.wugui.zone
 #
@@ -299,7 +280,6 @@
 0.0.0.0 dns.east.comss.one
 0.0.0.0 dns-doh.dnsforfamily.com
 0.0.0.0 dns-dot.dnsforfamily.com
-0.0.0.0 dns.cfiec.net
 0.0.0.0 asia.dnscepat.id
 0.0.0.0 eropa.dnscepat.id
 0.0.0.0 doh.360.cn
@@ -309,11 +289,9 @@
 0.0.0.0 dot.pub
 0.0.0.0 kaitain.restena.lu
 0.0.0.0 getdnsapi.net
-0.0.0.0 dns.larsdebruin.net
 0.0.0.0 dns-tls.bitwiseshift.net
 0.0.0.0 ns1.dnsprivacy.at
 0.0.0.0 ns2.dnsprivacy.at
-0.0.0.0 dns.bitgeek.in
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dnsotls.lab.nic.cl
 0.0.0.0 tls-dns-u.odvr.dns-oarc.net
@@ -329,7 +307,6 @@
 0.0.0.0 dot.eastau.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
 0.0.0.0 dot.eastas.pi-dns.com
-0.0.0.0 doh.pi-dns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
@@ -340,7 +317,6 @@
 0.0.0.0 uncensored.freedns.controld.com
 0.0.0.0 doh.mullvad.net
 0.0.0.0 adblock.doh.mullvad.net
-0.0.0.0 dns.arapurayil.com
 0.0.0.0 chrome.cloudflare-dns.com
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh.xfinity.com
