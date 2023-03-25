@@ -12,6 +12,7 @@
 #
 # block firefox application DoH
 0.0.0.0 firefox.dns.nextdns.io
+0.0.0.0 www.firefox.dns.nextdns.io
 0.0.0.0 mozilla.cloudflare-dns.com
 #
 # Apple DoH
