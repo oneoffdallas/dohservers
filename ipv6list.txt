@@ -7,11 +7,11 @@
 # Raw data: https://raw.githubusercontent.com/oneoffdallas/dohservers/master/ipv6list.txt
 #
 # Added: 20 Jan 2020
-# Last modified: 12 Sept 2021
+# Last modified: 28 Feb 2024
 
-# Optionally include Cloudflare's main addresses
-# 2606:4700:4700::1111
-# 2606:4700:4700::1001
+# Cloudflare's main addresses
+2606:4700:4700::1111
+2606:4700:4700::1001
 
 # *.aaflalo.me
 2604:180:f3::42
